@@ -1,4 +1,4 @@
 # MdThaha
 This is my first repository.
 <br>
-Author - Mohammed Thaha
+Author - Mohammed Thaha(thaha)
